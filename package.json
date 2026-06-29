@@ -1,0 +1,31 @@
+{
+  "name": "world-digital-id-reputation",
+  "version": "1.0.0",
+  "description": "Global Social Credit Score & Digital ID on Blockchain (Web3 + SSI)",
+  "scripts": {
+    "compile": "hardhat compile",
+    "deploy:local": "hardhat run scripts/deploy.ts --network localhost",
+    "deploy:sepolia": "hardhat run scripts/deploy.ts --network sepolia",
+    "test": "hardhat test",
+    "seed": "hardhat run scripts/seedDemoData.ts --network localhost",
+    "frontend": "cd frontend && npm run dev",
+    "start:all": "./start.sh"
+  },
+  "devDependencies": {
+    "@chainlink/contracts": "^1.1.0",
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@openzeppelin/contracts": "^5.0.0",
+    "dotenv": "^16.4.5",
+    "hardhat": "^2.22.0"
+  },
+  "dependencies": {
+    "@tanstack/react-query": "^5.101.2",
+    "ethers": "^6.17.0",
+    "framer-motion": "^12.42.0",
+    "lucide-react": "^1.22.0",
+    "react-hook-form": "^7.80.0",
+    "viem": "^2.53.1",
+    "wagmi": "^3.6.21",
+    "zod": "^4.4.3"
+  }
+}
