@@ -20,7 +20,7 @@ A decentralized Web3 platform merging Digital ID with an immutable Social Credit
 
 
 <p align="center">
-    <img src=".Futuristic Web3 identity  design.png" width="100%" alt="Web3 Digital ID Banner">
+    <img src="Futuristic Web3 identity  design.png" width="100%" alt="Web3 Digital ID Banner">
 </p>
 
 <h1 align="center">
