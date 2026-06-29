@@ -1,8 +1,20 @@
+<<<<<<< HEAD
 # 🌍 Web3 Digital ID & Reputation Social Credit System
 
 
 
 
+=======
+# Web3-Digital-ID-ReputationSocial-Credit-System
+
+A decentralized Web3 platform merging Digital ID with an immutable Social Credit and reputation system. Built on blockchain, it establishes a verifiable identity framework and real-time merit scoring for global governance, cross-chain access, and automated compliance via smart contracts. Empowering secure, transparent user ecosystems.
+
+
+
+
+# 🌍 Web3 Digital ID & Reputation Social Credit System
+
+>>>>>>> 0f7bdd6a10d9f93d630102db0e79f7d19dc733eb
 <p align="center">
 
 # 🚀 Enterprise-Grade Web3 Digital Identity Platform
@@ -18,9 +30,13 @@
 
 
 
+<<<<<<< HEAD
 <p align="center">
     <img src="./assets/banner.png" width="100%" alt="Web3 Digital ID Banner">
 </p>
+=======
+
+>>>>>>> 0f7bdd6a10d9f93d630102db0e79f7d19dc733eb
 
 <h1 align="center">
 🌍 Web3 Digital ID & Reputation Social Credit System
